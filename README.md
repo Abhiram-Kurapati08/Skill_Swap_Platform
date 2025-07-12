@@ -16,13 +16,7 @@
 
 
 
-Here’s a well-structured README.md file for your *Skill Swap Platform backend*, including setup instructions, environment configuration, API overview, and structure.
 
----
-
-### 📄 skill-swap-backend/README.md
-
-md
 # 🔁 Skill Swap Platform – Backend
 
 This is the **backend server** for the Skill Swap Platform — a web app that allows users to **offer skills**, **request swaps**, and **connect with others** for skill exchanges.
