@@ -5,7 +5,7 @@ const {
   getAllSwaps,
   broadcastMessage,
 } = require('../controllers/admin.controller');
-const isAdmin = require('../middlewares/admin.middleware');
+const { isAdmin } = require('../middlewares/admin.middleware');
 
 const router = express.Router();
 
