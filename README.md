@@ -1,16 +1,14 @@
 # Skill_Swap_Platform
-#Odoo Hackathon Problem 
 
-**Team Details
-1. Poloju Hrishikesh
-Email: hrishikeshpoloju@gmail.com
+## Odoo Hackathon Problem 
 
-2. Harini Poloju
-Email: harinipoloju25@gmail.com
+## Problem Statement: Skill Swap Platform
 
-3. K. Abhiram
-Email: yeshobhiram08@gmail.com
+## Team Details:
 
-4. Himanshu Boora
-
-(Email not provided)**
+| Name               | Email                         |
+|--------------------|-------------------------------|
+| K. Abhiram         | yeshobhiram08@gmail.com       |
+| Poloju Hrishikesh  | hrishikeshpoloju@gmail.com    |
+| Harini Poloju      | harinipoloju25@gmail.com      |
+| Himanshu Boora     | bt22btech11008@iith.ac.in     |
