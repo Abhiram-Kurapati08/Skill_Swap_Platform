@@ -1,7 +1,7 @@
 # Skill_Swap_Platform
-#Odoo Hackathon Problem 
+# Odoo Hackathon Problem 
 
-##Problem Statement:Skill Swap Platform
+## Problem Statement:Skill Swap Platform
 ## Team memebers:
 
 | Name               | Email                         |
