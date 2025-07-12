@@ -2,7 +2,7 @@
 # Odoo Hackathon Problem 
 
 ## Problem Statement:Skill Swap Platform
-## Team memebers:
+## Team Details:
 
 | Name               | Email                         |
 |--------------------|-------------------------------|
